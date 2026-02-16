@@ -32,7 +32,7 @@ export const WorkFlow = () => {
           {/* LEFT IMAGE */}
           <div className="order-2 lg:order-1">
             <img
-              src="/public/images/group-working.jpg"
+              src="/images/group-working.jpg"
               alt="Work Flow"
               className="rounded-lg shadow-lg w-full"
             />

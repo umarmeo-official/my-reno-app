@@ -17,11 +17,11 @@
     ];
 
     const testimonials = [
-      { id: 1, name: "Metho k. Partho", location: "CANADA", img: "/public/images/avatar-1.jpg" },
-      { id: 2, name: "Merry J. Wyman", location: "NEW ZEALAND", img: "/public/images/avatar-2.jpg" },
-      { id: 3, name: "Anthom Bu Spar", location: "Australia", img: "/public/images/avatar-3.jpg" },
-      { id: 4, name: "Jhon k. Matro", location: "Marshall Islands ", img: "/public/images/avatar-5.jpg" },
-      { id: 5, name: "Metho k. Partho", location: "CANADA", img: "/public/images/avatar-1.jpg" },
+      { id: 1, name: "Metho k. Partho", location: "CANADA", img: "/images/avatar-1.jpg" },
+      { id: 2, name: "Merry J. Wyman", location: "NEW ZEALAND", img: "/images/avatar-2.jpg" },
+      { id: 3, name: "Anthom Bu Spar", location: "Australia", img: "/images/avatar-3.jpg" },
+      { id: 4, name: "Jhon k. Matro", location: "Marshall Islands ", img: "/images/avatar-5.jpg" },
+      { id: 5, name: "Metho k. Partho", location: "CANADA", img: "/images/avatar-1.jpg" },
 
     ];
 

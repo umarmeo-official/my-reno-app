@@ -47,7 +47,7 @@ export const WhyChooseUs = () => {
           {/* RIGHT IMAGE */}
           <div className="relative">
             <img
-              src="/public/images/working.jpg"
+              src="/images/working.jpg"
               alt="Why Choose Us"
               className="rounded-lg shadow-lg w-full object-cover"
             />

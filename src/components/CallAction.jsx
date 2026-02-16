@@ -6,7 +6,7 @@ export const CallToAction = () => {
       {/* Left Design Image */}
       <div className="absolute -left-50 -top-45 h-[180%]  pointer-events-none">
         <img 
-          src="/public/images/sssplatter.svg" 
+          src="/images/sssplatter.svg" 
           alt="design-left" 
           className="h-full w-full object-contain object-left opacity-50"
         />
@@ -15,7 +15,7 @@ export const CallToAction = () => {
       {/* Right Design Image */}
       <div className="absolute -right-50 -top-45 h-[180%]  pointer-events-none">
         <img 
-          src="/public/images/sssplatter.svg" 
+          src="/images/sssplatter.svg" 
           alt="design-right" 
           className="h-full w-full object-contain object-right opacity-50"
         />

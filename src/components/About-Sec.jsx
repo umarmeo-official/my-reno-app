@@ -7,7 +7,7 @@ export const AboutSection = () => {
         
             <div className="w-full lg:w-1/2 flex justify-center lg:order-1 order-2">
           <img 
-            src="/public/images/about.png" 
+            src="/images/about.png" 
             alt="Work Illustration" 
             className="max-w-full h-auto"
           />
