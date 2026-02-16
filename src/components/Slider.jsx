@@ -4,9 +4,9 @@ import "swiper/css";
 import "swiper/css/navigation";
 
 const slides = [
-  "/public/images/img-co-1.jpg",
-  "/public/images/img-co-2.jpg",
-  "/public/images/img-co-3.jpg",
+  "/images/img-co-1.jpg",
+  "/images/img-co-2.jpg",
+  "/images/img-co-3.jpg",
 ];
 
  export const HeroSwiper = () => {
